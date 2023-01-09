@@ -1,0 +1,6 @@
+{
+  "bot_token": "your bot's token",
+  "client_id": "your bot's id",
+  "guild_id": "your test guild's id",
+  "tenor_api_key": "your tenor api key"
+}
